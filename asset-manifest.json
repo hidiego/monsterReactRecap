@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsterReactRecap/static/css/main.6e1f10f1.chunk.css",
+    "main.js": "/monsterReactRecap/static/js/main.96aec193.chunk.js",
+    "main.js.map": "/monsterReactRecap/static/js/main.96aec193.chunk.js.map",
+    "runtime-main.js": "/monsterReactRecap/static/js/runtime-main.242c89e9.js",
+    "runtime-main.js.map": "/monsterReactRecap/static/js/runtime-main.242c89e9.js.map",
+    "static/js/2.46aa02fd.chunk.js": "/monsterReactRecap/static/js/2.46aa02fd.chunk.js",
+    "static/js/2.46aa02fd.chunk.js.map": "/monsterReactRecap/static/js/2.46aa02fd.chunk.js.map",
+    "index.html": "/monsterReactRecap/index.html",
+    "precache-manifest.1ff7231ee1cf9c8b4a40b0b1256a4a7e.js": "/monsterReactRecap/precache-manifest.1ff7231ee1cf9c8b4a40b0b1256a4a7e.js",
+    "service-worker.js": "/monsterReactRecap/service-worker.js",
+    "static/css/main.6e1f10f1.chunk.css.map": "/monsterReactRecap/static/css/main.6e1f10f1.chunk.css.map",
+    "static/js/2.46aa02fd.chunk.js.LICENSE": "/monsterReactRecap/static/js/2.46aa02fd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.242c89e9.js",
+    "static/js/2.46aa02fd.chunk.js",
+    "static/css/main.6e1f10f1.chunk.css",
+    "static/js/main.96aec193.chunk.js"
+  ]
+}
